@@ -187,6 +187,28 @@ Every ServeWell run produces **three layers of output**:
 
 ---
 
+
+
+#Frontend Demo
+<img width="1613" height="729" alt="Screenshot 2025-10-12 111909" src="https://github.com/user-attachments/assets/f6e72a57-1b15-407d-956d-368ec80060ff" />
+
+
+<img width="1613" height="696" alt="Screenshot 2025-10-12 111923" src="https://github.com/user-attachments/assets/53733df3-8b42-4f9b-a467-00e8b1b9c425" />
+
+
+<img width="1560" height="445" alt="Screenshot 2025-10-12 111936" src="https://github.com/user-attachments/assets/20d8d2c1-a63a-4e99-9d87-e29301e4b5c1" />
+
+
+<img width="1609" height="812" alt="Screenshot 2025-10-12 111953" src="https://github.com/user-attachments/assets/e551f9f3-b5b7-4f74-819b-0f15d0915b5e" />
+
+
+<img width="1574" height="440" alt="Screenshot 2025-10-12 112005" src="https://github.com/user-attachments/assets/fde31909-a6f7-4bc6-bcbc-e2f6d13504db" />
+
+
+<img width="1610" height="787" alt="Screenshot 2025-10-12 112027" src="https://github.com/user-attachments/assets/1c439a10-f475-4b5a-af9c-5e753598ea12" />
+
+
+
 ## Why ServeWell Is Different
 
 - Not just an ML forecasting system
