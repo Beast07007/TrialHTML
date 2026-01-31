@@ -1,4 +1,4 @@
-<img width="761" height="718" alt="image" src="https://github.com/user-attachments/assets/4b1c4b11-12fe-4fbb-9eaa-cb88fc683334" /># ServeWell  
+
 ### Agentic AI for Demand-Aware Food Service Operations  
 **Powered by IBM watsonx Orchestrate**
 
