@@ -151,19 +151,20 @@ Every ServeWell run produces **three layers of output**:
 ## Demo Scenarios Covered
 
 “This screenshot shows the ServeWell multi-agent system built in IBM watsonx Orchestrate, where a central orchestrator coordinates specialized agents for forecasting, planning, guardrails, redistribution, and crisis management.”
-![WhatsApp Image 2026-02-01 at 12 04 45 AM](https://github.com/user-attachments/assets/7ba30809-bde5-4925-8725-a9f8576897fa)
+  <img width="1100"  alt="image" src="https://github.com/user-attachments/assets/7ba30809-bde5-4925-8725-a9f8576897fa" />
+
 
 - **Normal Day**
   - Baseline forecasting and planning
-  <img width="800"  alt="image" src="https://github.com/user-attachments/assets/55602e50-9f57-498e-8073-abbb80895f5b" />
-  <img width="800"  alt="image" src="https://github.com/user-attachments/assets/b72e7fb7-34f9-4835-ac59-c8bb2cc6a21e" />
+  <img width="1100"  alt="image" src="https://github.com/user-attachments/assets/55602e50-9f57-498e-8073-abbb80895f5b" />
+  <img width="1100"  alt="image" src="https://github.com/user-attachments/assets/b72e7fb7-34f9-4835-ac59-c8bb2cc6a21e" />
 
  Screenshot: HUMAN_TABLES + JSON header showing mode NORMAL, forecast, plan.
 
 - **Demand Spike**
   - Weather or local events increase demand
-  <img width="800"  alt="image" src="https://github.com/user-attachments/assets/fce939a3-2227-40b5-88d9-8016a1477196" />
-  <img width="800"  alt="image" src="https://github.com/user-attachments/assets/e4575501-7fce-4417-83a8-f90909a7711a" />
+  <img width="1100"  alt="image" src="https://github.com/user-attachments/assets/fce939a3-2227-40b5-88d9-8016a1477196" />
+  <img width="1100"  alt="image" src="https://github.com/user-attachments/assets/e4575501-7fce-4417-83a8-f90909a7711a" />
 
  Screenshot: FORECAST table showing higher predicted demand + “drivers”.
 
@@ -171,8 +172,8 @@ Every ServeWell run produces **three layers of output**:
 - **Redistribution Trigger**
   - Surplus detected, donation plan generated
 
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/6267a640-7995-440b-bb8c-2ac50ed1a7bf" />
-  <img width="800"  alt="image" src="https://github.com/user-attachments/assets/1e9482fd-ac52-4b0c-9b94-0e961bff237c" />
+  <img width="1100" alt="image" src="https://github.com/user-attachments/assets/6267a640-7995-440b-bb8c-2ac50ed1a7bf" />
+  <img width="1100"  alt="image" src="https://github.com/user-attachments/assets/1e9482fd-ac52-4b0c-9b94-0e961bff237c" />
   
  Screenshot: REDISTRIBUTION table with triggered = true, pickup window, message template.
 
@@ -181,8 +182,8 @@ Every ServeWell run produces **three layers of output**:
   - Human override required
   - Crisis operations plan activated
 
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/313ba325-5e28-499f-bb15-7d0910a64e0c" />
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/ea937e87-4f03-4558-a357-4d2d60c01999" />
+<img width="1100"  alt="image" src="https://github.com/user-attachments/assets/313ba325-5e28-499f-bb15-7d0910a64e0c" />
+<img width="1100"  alt="image" src="https://github.com/user-attachments/assets/ea937e87-4f03-4558-a357-4d2d60c01999" />
 
 
 ---
