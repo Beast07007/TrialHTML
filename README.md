@@ -208,7 +208,10 @@ Every ServeWell run produces **three layers of output**:
 
 <img width="1610" height="787" alt="Screenshot 2025-10-12 112027" src="https://github.com/user-attachments/assets/1c439a10-f475-4b5a-af9c-5e753598ea12" />
 
-
+Respones is Frontend 
+![WhatsApp Image 2026-02-01 at 12 36 13 AM](https://github.com/user-attachments/assets/e721ae1c-8a27-42f5-b01a-b84de465285c)
+![WhatsApp Image 2026-02-01 at 12 36 14 AM](https://github.com/user-attachments/assets/c4f55316-6241-4cda-b161-cd0dd2855388)
+![WhatsApp Image 2026-02-01 at 12 36 14 AM](https://github.com/user-attachments/assets/3e4efc15-e4fc-4d9d-8abe-011a8889c364)
 
 ## Why ServeWell Is Different
 
